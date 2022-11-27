@@ -11,4 +11,4 @@ After finishing an API for the Joy of Painting we decided to make a simple app t
 - [Ron Olsen](https://github.com/ronroeandassociates) - _Initial work_ - [What's Outside Bob?]
 - [Lyndon Pettersson](https://github.com/Lyndonpett) - _Initial work_ - [What's Outside Bob?]
 - [Tres Serio](https://github.com/tresserio) - _Initial work_ - [What's Outside Bob?]
-- [Toffer Sokolosky](https://github.com/Estoric918) - _Initial work_ - [What's Outside Bob?]
+- [Tofer Sokolosky](https://github.com/Estoric918) - _Initial work_ - [What's Outside Bob?]
